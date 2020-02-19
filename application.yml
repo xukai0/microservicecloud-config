@@ -4,8 +4,8 @@ spring:
     - dev
 ---
 spring: 
-  profiles: dev
-  application:
+ profiles: dev
+ application:
   name: microservicecloud-config-atguigu-dev
 
 ---
